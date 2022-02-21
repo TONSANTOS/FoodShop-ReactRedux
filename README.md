@@ -18,9 +18,7 @@ ___
 ## Demonstração 
  <br />
 
-<p align="center">
-<img src="https://im2.ezgif.com/tmp/ezgif-2-a802393cf4.gif" />
-</p>
+![](/src/assets/video/2022-02-20-01-44-05.gif)
 
 <br />
 
